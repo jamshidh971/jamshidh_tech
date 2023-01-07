@@ -1,0 +1,185 @@
+
+body{
+    font-family: tw cen mt;
+    }
+.number{
+    text-decoration: none;
+    color: #FFF;
+    font-size: smaller;
+}
+
+.email{
+    text-decoration: none;
+    color: #FFF;
+    font-size: smaller;
+}
+
+.logo{
+   width: 20%;
+   margin-top: 10px;
+
+}
+
+.footer-logo{
+    width: 10%;
+    float: left;
+  
+    
+}
+
+ul {
+     
+    margin: 0%;
+    font-family: Tw cen MT;
+    font-weight: bold;
+   
+    
+}
+
+a:hover{
+    color: rgb(0, 204, 255);
+    text-decoration: underline;
+}
+
+
+
+.top-header{
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
+
+img {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 50%;
+}
+
+h4, p{
+    margin-top: 2%;
+    font-family: Tw cen MT;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.text{
+    color: black;
+    text-decoration:none;
+    font-size: 1.0rem;
+}
+
+.fa-4x{
+    display: block;
+    padding: 5%;
+    color: rgb(0, 204, 255);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    
+}
+
+
+h1{
+    font-family: Tw cen MT;
+    font-weight: 900;
+    margin-top: 5%;
+}
+hr{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+ 
+}
+
+.Services{
+    font-size: x-small;
+    font-weight: 0;
+    font-family: Tw cen MT;
+}
+.service-1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.social-icons{
+    letter-spacing: 10px;
+}
+
+.header-menu a:hover{
+    color: darkkhaki;
+    border-bottom: 2px solid darkkhaki;
+}
+
+/* About CSS */
+
+#about-h1{
+    font-family: Tw cen MT;
+    color: grey;
+    opacity: 80%;
+    margin-top: 20px;
+}
+#about-h2{
+    font-family: Tw cen MT;
+    font-weight: bold;
+}
+
+
+
+.navbar {
+    padding: 0 0 1.5rem;
+    
+  }
+  
+  
+  .nav-item {
+    padding: 0 15px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    text-align: end;
+    
+  }
+.logo{
+    width: 12%;
+}
+
+.Main{
+  width: 100%;
+  margin: 0%;
+}
+
+form{
+   background-color: rgb(255, 255, 255);
+   font-family: Tw cen MT;
+   padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 26px;
+   margin-bottom: 2%;
+   
+   width: 600px;
+   
+}
+
+
+/* portfolio */
+
+#portfolio {
+   margin-bottom: 10%;
+}
+
+.btn {
+    background-color: rgb(0, 204, 255);
+    border: #FFF;
+    
+}
+
+
+
+
+
+
